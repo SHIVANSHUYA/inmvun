@@ -1,0 +1,46 @@
+Head Chair: Hardik
+Co-chair: Lakshay
+Vice-Chair: Rishi
+Reporeture: Alisha Bhatia
+
+
+Hardik
+        email: senghaltextiles@gmail
+        phone: +919625710092
+        age: 16,
+        name: Hardik Rajpurohit
+        username: hardik@invmun25_csw
+        password: csw_hardik@rajpurohit
+
+
+
+
+Lakshya:
+        email: lakshya.sharma1750@disedge.ac.in
+        phone: +917982318008
+        age: 16
+        name: Lakshya Sharma
+        username: lakshya@invmun25_csw_sharma
+        password: csw_lakshay@sharma_invmun25
+
+
+
+
+Rishi
+        email: rishithakre0001@gmail.com
+        phone: +919661138396
+        age: 16
+        name: Rishi Thakre
+        username: rishi@invmun25_csw
+        password: csw_thakre@rishi
+
+
+
+        
+Alisha
+        email: alishabhatia010@gmail.com
+        phone: +971543146687
+        age: 14
+        name: Alisha Bhatia
+        username: alsiha@invmun_25_csw
+        password: csw_bhatia_@alisha_invmun25
